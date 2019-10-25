@@ -1,7 +1,7 @@
 {
   "name": "mern_template",
   "version": "1.0.0",
-  "description": "Templaye for MERN stack",
+  "description": "Template for MERN stack",
   "main": "server.js",
   "scripts": {
     "start": "node server",
